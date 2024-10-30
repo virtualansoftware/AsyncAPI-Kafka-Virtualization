@@ -12,5 +12,6 @@
       "automaticReconnect" : true,
       "connectionTimeout" : 100,
       "keepAliveInterval" : 60
+
     } ]
 }

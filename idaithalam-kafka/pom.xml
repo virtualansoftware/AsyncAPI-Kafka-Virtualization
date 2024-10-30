@@ -64,7 +64,7 @@
 		<dependency>
 			<groupId>io.virtualan</groupId>
 			<artifactId>idaithalam</artifactId>
-			<version>${idaithalam.version}</version>
+			<version>1.7.0</version>
 		</dependency>
 		<dependency>
 			<groupId>org.testng</groupId>
